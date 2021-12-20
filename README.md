@@ -1,0 +1,2 @@
+# SharedTrip
+Softuni exam
